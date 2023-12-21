@@ -1,0 +1,88 @@
+[INFO ] 2023-12-20 16:17:33.370 [main] MyStoreV1 - Opening URL
+[INFO ] 2023-12-20 16:17:33.622 [main] MyStoreV1 - VerifyLoginTest execution started
+[INFO ] 2023-12-20 16:17:34.593 [main] MyStoreV1 - Clicking on SignIn Link
+[INFO ] 2023-12-20 16:17:34.756 [main] MyStoreV1 - Enter Registered email id
+[INFO ] 2023-12-20 16:17:34.871 [main] MyStoreV1 - Enter Registered password
+[INFO ] 2023-12-20 16:17:35.735 [main] MyStoreV1 - Submit details for sign In
+[INFO ] 2023-12-20 16:17:35.771 [main] MyStoreV1 - User Logged in successfully
+[INFO ] 2023-12-20 16:17:35.773 [main] MyStoreV1 - VerifyLoginTest execution finished
+[INFO ] 2023-12-20 16:17:43.578 [main] MyStoreV1 - Opening URL
+[INFO ] 2023-12-20 16:17:43.580 [main] MyStoreV1 - VerifyLoginTest execution started
+[INFO ] 2023-12-20 16:17:45.483 [main] MyStoreV1 - Clicking on SignIn Link
+[INFO ] 2023-12-20 16:17:45.587 [main] MyStoreV1 - Enter Registered email id
+[INFO ] 2023-12-20 16:17:45.670 [main] MyStoreV1 - Enter Registered password
+[INFO ] 2023-12-20 16:17:46.534 [main] MyStoreV1 - Submit details for sign In
+[INFO ] 2023-12-20 16:17:46.740 [main] MyStoreV1 - User Logged in successfully
+[INFO ] 2023-12-20 16:17:46.740 [main] MyStoreV1 - VerifyLoginTest execution finished
+[INFO ] 2023-12-20 16:22:15.310 [main] MyStoreV1 - Opening URL
+[INFO ] 2023-12-20 16:22:15.704 [main] MyStoreV1 - VerifyLoginTest execution started
+[INFO ] 2023-12-20 16:22:19.602 [main] MyStoreV1 - Opening URL
+[INFO ] 2023-12-20 16:22:19.606 [main] MyStoreV1 - VerifyLoginTest execution started
+[INFO ] 2023-12-20 16:40:50.686 [main] MyStoreV1 - Opening URL
+[INFO ] 2023-12-20 16:40:51.067 [main] MyStoreV1 - VerifyLoginTest execution started
+[INFO ] 2023-12-20 16:40:53.867 [main] MyStoreV1 - Opening URL
+[INFO ] 2023-12-20 16:40:53.870 [main] MyStoreV1 - VerifyLoginTest execution started
+[INFO ] 2023-12-20 16:50:26.395 [main] MyStoreV1 - Opening URL
+[INFO ] 2023-12-20 16:50:26.737 [main] MyStoreV1 - VerifyLoginTest execution started
+[INFO ] 2023-12-20 16:50:28.118 [main] MyStoreV1 - Clicking on SignIn Link
+[INFO ] 2023-12-20 16:50:28.231 [main] MyStoreV1 - Enter Registered email id
+[INFO ] 2023-12-20 16:50:28.306 [main] MyStoreV1 - Enter Registered password
+[INFO ] 2023-12-20 16:50:28.922 [main] MyStoreV1 - Submit details for sign In
+[INFO ] 2023-12-20 16:50:29.234 [main] MyStoreV1 - User Logged in successfully
+[INFO ] 2023-12-20 16:50:29.235 [main] MyStoreV1 - VerifyLoginTest execution finished
+[INFO ] 2023-12-20 16:50:36.446 [main] MyStoreV1 - Opening URL
+[INFO ] 2023-12-20 16:50:36.453 [main] MyStoreV1 - VerifyLoginTest execution started
+[INFO ] 2023-12-20 16:50:37.273 [main] MyStoreV1 - Clicking on SignIn Link
+[INFO ] 2023-12-20 16:50:37.383 [main] MyStoreV1 - Enter Registered email id
+[INFO ] 2023-12-20 16:50:37.485 [main] MyStoreV1 - Enter Registered password
+[INFO ] 2023-12-20 16:50:38.327 [main] MyStoreV1 - Submit details for sign In
+[INFO ] 2023-12-20 16:50:38.358 [main] MyStoreV1 - User Logged in successfully
+[INFO ] 2023-12-20 16:50:38.358 [main] MyStoreV1 - VerifyLoginTest execution finished
+[INFO ] 2023-12-20 17:32:48.230 [main] MyStoreV1 - Opening URL
+[INFO ] 2023-12-20 17:32:48.994 [main] MyStoreV1 - VerifyLoginTest execution started
+[INFO ] 2023-12-20 17:32:51.010 [main] MyStoreV1 - Clicking on SignIn Link
+[INFO ] 2023-12-20 17:32:51.607 [main] MyStoreV1 - Enter Registered email id
+[INFO ] 2023-12-20 17:32:51.691 [main] MyStoreV1 - Enter Registered password
+[INFO ] 2023-12-20 17:32:52.695 [main] MyStoreV1 - Submit details for sign In
+[INFO ] 2023-12-20 17:32:52.873 [main] MyStoreV1 - User Logged in successfully
+[INFO ] 2023-12-20 17:32:52.880 [main] MyStoreV1 - VerifyLoginTest execution finished
+[INFO ] 2023-12-20 17:32:59.345 [main] MyStoreV1 - Opening URL
+[INFO ] 2023-12-20 17:32:59.347 [main] MyStoreV1 - VerifyLoginTest execution started
+[INFO ] 2023-12-20 17:33:00.237 [main] MyStoreV1 - Clicking on SignIn Link
+[INFO ] 2023-12-20 17:33:00.341 [main] MyStoreV1 - Enter Registered email id
+[INFO ] 2023-12-20 17:33:00.445 [main] MyStoreV1 - Enter Registered password
+[INFO ] 2023-12-20 17:33:01.292 [main] MyStoreV1 - Submit details for sign In
+[INFO ] 2023-12-20 17:33:01.331 [main] MyStoreV1 - User Logged in successfully
+[INFO ] 2023-12-20 17:33:01.331 [main] MyStoreV1 - VerifyLoginTest execution finished
+[INFO ] 2023-12-20 18:41:26.430 [main] MyStoreV1 - Opening URL
+[INFO ] 2023-12-20 18:41:26.932 [main] MyStoreV1 - VerifyLoginTest execution started
+[INFO ] 2023-12-20 18:41:27.926 [main] MyStoreV1 - Clicking on SignIn Link
+[INFO ] 2023-12-20 18:41:28.115 [main] MyStoreV1 - Enter Registered email id
+[INFO ] 2023-12-20 18:41:28.241 [main] MyStoreV1 - Enter Registered password
+[INFO ] 2023-12-20 18:41:29.222 [main] MyStoreV1 - Submit details for sign In
+[INFO ] 2023-12-20 18:41:29.255 [main] MyStoreV1 - User Logged in successfully
+[INFO ] 2023-12-20 18:41:29.257 [main] MyStoreV1 - VerifyLoginTest execution finished
+[INFO ] 2023-12-20 18:41:35.466 [main] MyStoreV1 - Opening URL
+[INFO ] 2023-12-20 18:41:35.469 [main] MyStoreV1 - VerifyLoginTest execution started
+[INFO ] 2023-12-20 18:41:36.269 [main] MyStoreV1 - Clicking on SignIn Link
+[INFO ] 2023-12-20 18:41:36.366 [main] MyStoreV1 - Enter Registered email id
+[INFO ] 2023-12-20 18:41:36.441 [main] MyStoreV1 - Enter Registered password
+[INFO ] 2023-12-20 18:41:37.261 [main] MyStoreV1 - Submit details for sign In
+[INFO ] 2023-12-20 18:41:37.292 [main] MyStoreV1 - User Logged in successfully
+[INFO ] 2023-12-20 18:41:37.293 [main] MyStoreV1 - VerifyLoginTest execution finished
+[INFO ] 2023-12-20 19:50:27.715 [main] MyStoreV1 - Opening URL
+[INFO ] 2023-12-20 19:50:28.372 [main] MyStoreV1 - VerifyLoginTest execution started
+[INFO ] 2023-12-20 19:50:29.503 [main] MyStoreV1 - Clicking on SignIn Link
+[INFO ] 2023-12-20 19:50:29.685 [main] MyStoreV1 - Enter Registered email id
+[INFO ] 2023-12-20 19:50:29.888 [main] MyStoreV1 - Enter Registered password
+[INFO ] 2023-12-20 19:50:30.839 [main] MyStoreV1 - Submit details for sign In
+[INFO ] 2023-12-20 19:50:30.890 [main] MyStoreV1 - User Logged in successfully
+[INFO ] 2023-12-20 19:50:30.896 [main] MyStoreV1 - VerifyLoginTest execution finished
+[INFO ] 2023-12-20 19:50:37.469 [main] MyStoreV1 - Opening URL
+[INFO ] 2023-12-20 19:50:37.472 [main] MyStoreV1 - VerifyLoginTest execution started
+[INFO ] 2023-12-20 19:50:38.410 [main] MyStoreV1 - Clicking on SignIn Link
+[INFO ] 2023-12-20 19:50:38.549 [main] MyStoreV1 - Enter Registered email id
+[INFO ] 2023-12-20 19:50:38.673 [main] MyStoreV1 - Enter Registered password
+[INFO ] 2023-12-20 19:50:39.762 [main] MyStoreV1 - Submit details for sign In
+[INFO ] 2023-12-20 19:50:39.835 [main] MyStoreV1 - User Logged in successfully
+[INFO ] 2023-12-20 19:50:39.836 [main] MyStoreV1 - VerifyLoginTest execution finished

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-12-21T05:47:23Z" name="Suite" finished-at="2023-12-21T05:47:46Z" duration-ms="23545">
+    <groups>
+    </groups>
+    <test started-at="2023-12-21T05:47:23Z" name="Test" finished-at="2023-12-21T05:47:46Z" duration-ms="23545">
+      <class name="com.mystore.testcases.TC_002_DataProviderTest_HashMap">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.mystore.testcases.TC_002_DataProviderTest_HashMap@58ce9668]" started-at="2023-12-21T05:47:23Z" name="setup" finished-at="2023-12-21T05:47:35Z" duration-ms="12050" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="VerifyLoginTest(java.util.HashMap)[pri:0, instance:com.mystore.testcases.TC_002_DataProviderTest_HashMap@58ce9668]" started-at="2023-12-21T05:47:35Z" name="VerifyLoginTest" data-provider="MyData" finished-at="2023-12-21T05:47:38Z" duration-ms="3247" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{password=Test@123, email=Test99@gmail.com, username=Matin Shaikh}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyLoginTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.mystore.testcases.TC_002_DataProviderTest_HashMap@58ce9668]" started-at="2023-12-21T05:47:38Z" name="tearDown" finished-at="2023-12-21T05:47:38Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.mystore.testcases.TC_002_DataProviderTest_HashMap@58ce9668]" started-at="2023-12-21T05:47:38Z" name="setup" finished-at="2023-12-21T05:47:44Z" duration-ms="5899" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="VerifyLoginTest(java.util.HashMap)[pri:0, instance:com.mystore.testcases.TC_002_DataProviderTest_HashMap@58ce9668]" started-at="2023-12-21T05:47:44Z" name="VerifyLoginTest" data-provider="MyData" finished-at="2023-12-21T05:47:46Z" duration-ms="2296" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{password=Test@123, email=Test79@gmail.com, username=Test Khan}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyLoginTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.mystore.testcases.TC_002_DataProviderTest_HashMap@58ce9668]" started-at="2023-12-21T05:47:46Z" name="tearDown" finished-at="2023-12-21T05:47:46Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.mystore.testcases.TC_002_DataProviderTest_HashMap -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
